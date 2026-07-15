@@ -1,1 +1,1 @@
-# git-merge - 8 week
+# git-merge - 8 weeks of building with AI
