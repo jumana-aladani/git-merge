@@ -1,0 +1,7 @@
+45f3c5d oops: add junk file
+a8a3eea merge feature/title: keep both intents
+fbf5686 title: 8 weeks
+63dcc0e title: building with AI
+ec9d352 readme: base title
+de248c4 readme: base title
+3d57dcc Initial commit
