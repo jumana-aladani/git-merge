@@ -1,1 +1,1 @@
-# git-merge - my coding jouney
+# git-merge - building with AI
